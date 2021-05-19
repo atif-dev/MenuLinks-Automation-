@@ -1,0 +1,8 @@
+com\menuLinks\testCases\TC_03.class
+com\menuLinks\testCases\BaseClass.class
+com\menuLinks\PageObjects\TestCase1.class
+com\menuLinks\Utilities\ReadConfig.class
+com\menuLinks\PageObjects\TestCase3.class
+com\menuLinks\testCases\TC_01.class
+com\menuLinks\testCases\TC_02.class
+com\menuLinks\PageObjects\TestCase2.class

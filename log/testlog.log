@@ -1,0 +1,496 @@
+2021-05-17 17:25:29,196 - MenuLinks -INFO - URL is Opened
+2021-05-17 17:42:55,466 - MenuLinks -INFO - URL is Opened
+2021-05-17 17:42:57,721 - MenuLinks -INFO - Window size has been set
+2021-05-17 17:42:59,739 - MenuLinks -INFO - Title is fetched
+2021-05-17 17:43:05,952 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-17 17:45:25,514 - MenuLinks -INFO - URL is Opened
+2021-05-17 17:45:27,735 - MenuLinks -INFO - Window size has been set
+2021-05-17 17:45:29,754 - MenuLinks -INFO - Title is fetched
+2021-05-17 17:45:39,452 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-17 17:46:48,672 - MenuLinks -INFO - URL is Opened
+2021-05-17 17:46:50,879 - MenuLinks -INFO - Window size has been set
+2021-05-17 17:46:52,900 - MenuLinks -INFO - Title is fetched
+2021-05-17 17:47:01,560 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-17 17:49:35,241 - MenuLinks -INFO - URL is Opened
+2021-05-17 17:49:37,491 - MenuLinks -INFO - Window size has been set
+2021-05-17 17:49:39,508 - MenuLinks -INFO - Title is fetched
+2021-05-17 17:49:48,989 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-17 18:13:16,314 - MenuLinks -INFO - URL is Opened
+2021-05-17 18:13:18,739 - MenuLinks -INFO - Window size has been set
+2021-05-17 18:13:20,756 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-17 18:13:34,055 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-17 18:13:36,083 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-17 18:13:41,449 - MenuLinks -INFO - Test Case passed
+2021-05-17 18:28:42,025 - MenuLinks -INFO - URL is Opened
+2021-05-17 18:28:44,446 - MenuLinks -INFO - Window size has been set
+2021-05-17 18:28:46,461 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-17 18:28:55,387 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-17 18:28:57,403 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-17 18:29:03,703 - MenuLinks -INFO - We are on Homepage....
+2021-05-17 18:29:06,717 - MenuLinks -INFO - Validating Homepage title...
+2021-05-17 18:29:06,729 - MenuLinks -INFO - Test Case passed
+2021-05-17 20:55:13,595 - MenuLinks -INFO - URL is Opened
+2021-05-17 23:35:38,311 - MenuLinks -INFO - URL is Opened
+2021-05-17 23:35:41,091 - MenuLinks -INFO - Window size has been set
+2021-05-17 23:35:43,336 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-17 23:43:44,818 - MenuLinks -INFO - URL is Opened
+2021-05-17 23:43:46,987 - MenuLinks -INFO - Window size has been set
+2021-05-17 23:43:52,542 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-17 23:43:52,549 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-17 23:44:03,939 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-17 23:44:03,952 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-17 23:44:19,023 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-17 23:44:19,032 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-17 23:44:33,473 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-17 23:44:33,484 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-17 23:44:36,487 - MenuLinks -INFO - Validations Successful
+2021-05-17 23:44:36,489 - MenuLinks -INFO - Test Case Passed.
+2021-05-17 23:45:01,556 - MenuLinks -INFO - URL is Opened
+2021-05-17 23:45:03,716 - MenuLinks -INFO - Window size has been set
+2021-05-17 23:45:08,884 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-17 23:45:08,892 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-17 23:45:19,996 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-17 23:45:20,010 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-17 23:45:34,991 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-17 23:45:35,000 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-17 23:45:49,471 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-17 23:45:49,483 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-17 23:45:52,487 - MenuLinks -INFO - Validations Successful
+2021-05-17 23:45:52,489 - MenuLinks -INFO - Test Case Passed.
+2021-05-18 11:28:16,282 - MenuLinks -INFO - URL is Opened
+2021-05-18 11:28:18,728 - MenuLinks -INFO - Window size has been set
+2021-05-18 11:28:20,840 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 11:28:31,147 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 11:28:33,187 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 11:28:40,609 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:28:49,142 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 11:28:59,392 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:29:03,740 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 11:29:10,846 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:34:28,535 - MenuLinks -INFO - URL is Opened
+2021-05-18 11:34:30,773 - MenuLinks -INFO - Window size has been set
+2021-05-18 11:34:32,786 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 11:34:42,439 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 11:34:44,482 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 11:34:51,845 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:35:03,684 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 11:35:14,125 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:35:18,780 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 11:35:26,025 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:39:50,259 - MenuLinks -INFO - URL is Opened
+2021-05-18 11:39:52,505 - MenuLinks -INFO - Window size has been set
+2021-05-18 11:39:54,531 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 11:40:08,172 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 11:40:10,206 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 11:40:17,557 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:40:29,831 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 11:40:40,135 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:40:44,462 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 11:40:51,677 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:44:31,719 - MenuLinks -INFO - URL is Opened
+2021-05-18 11:44:34,057 - MenuLinks -INFO - Window size has been set
+2021-05-18 11:44:36,089 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 11:44:47,225 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 11:44:49,255 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 11:44:56,522 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:45:10,900 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 11:45:21,148 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 11:45:27,990 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 11:45:34,950 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 12:00:37,183 - MenuLinks -INFO - URL is Opened
+2021-05-18 12:00:39,407 - MenuLinks -INFO - Window size has been set
+2021-05-18 12:00:41,429 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 12:00:50,427 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 12:00:52,458 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 12:00:59,869 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 12:01:08,384 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 12:01:18,717 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 12:01:23,378 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 12:01:30,631 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 12:10:59,054 - MenuLinks -INFO - URL is Opened
+2021-05-18 12:11:01,332 - MenuLinks -INFO - Window size has been set
+2021-05-18 12:11:03,347 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 12:11:12,327 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 12:11:14,390 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 12:11:21,671 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 12:11:30,245 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 12:11:40,520 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 12:11:45,279 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 12:11:52,548 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 14:50:10,804 - MenuLinks -INFO - URL is Opened
+2021-05-18 14:50:13,516 - MenuLinks -INFO - Window size has been set
+2021-05-18 14:50:15,579 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 14:55:40,262 - MenuLinks -INFO - URL is Opened
+2021-05-18 14:55:42,555 - MenuLinks -INFO - Window size has been set
+2021-05-18 14:55:44,580 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 14:58:13,348 - MenuLinks -INFO - Fire TV stick page is validated.
+2021-05-18 15:02:56,045 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:02:58,334 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:03:00,357 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 15:03:09,975 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 15:03:12,008 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 15:03:19,466 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:03:31,180 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 15:03:41,637 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:03:46,611 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 15:03:54,037 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:07:48,146 - MenuLinks -INFO - Fire TV stick page is validated.
+2021-05-18 15:10:41,619 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:10:43,810 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:10:45,825 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 15:10:55,995 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 15:10:58,043 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 15:11:05,511 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:11:21,872 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 15:11:32,313 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:11:37,651 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 15:11:45,049 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:12:57,865 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-18 15:25:32,591 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:25:34,949 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:25:36,971 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 15:25:45,970 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 15:25:47,991 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-18 15:25:54,412 - MenuLinks -INFO - We are on Homepage....
+2021-05-18 15:25:57,425 - MenuLinks -INFO - Validating Homepage title...
+2021-05-18 15:25:57,437 - MenuLinks -INFO - Test Case passed
+2021-05-18 15:26:09,806 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:26:11,964 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:26:17,112 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-18 15:26:17,123 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-18 15:26:28,293 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-18 15:26:28,304 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-18 15:26:43,293 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-18 15:26:43,304 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-18 15:26:58,519 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-18 15:26:58,531 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-18 15:27:01,539 - MenuLinks -INFO - Validations Successful
+2021-05-18 15:27:01,539 - MenuLinks -INFO - Test Case Passed.
+2021-05-18 15:27:13,769 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:27:16,017 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:27:18,028 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 15:27:26,600 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 15:27:28,613 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 15:27:36,023 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:27:43,798 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 15:27:54,185 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:27:58,920 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 15:28:06,364 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:28:58,227 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-18 15:29:47,940 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:29:50,243 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:29:52,259 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 15:30:01,041 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 15:30:03,056 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-18 15:30:09,458 - MenuLinks -INFO - We are on Homepage....
+2021-05-18 15:30:12,467 - MenuLinks -INFO - Validating Homepage title...
+2021-05-18 15:30:12,480 - MenuLinks -INFO - Test Case passed
+2021-05-18 15:30:25,003 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:30:27,186 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:30:32,340 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-18 15:30:32,352 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-18 15:30:43,844 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-18 15:30:43,855 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-18 15:30:59,886 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-18 15:30:59,898 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-18 15:31:15,516 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-18 15:31:15,528 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-18 15:31:18,535 - MenuLinks -INFO - Validations Successful
+2021-05-18 15:31:18,535 - MenuLinks -INFO - Test Case Passed.
+2021-05-18 15:31:30,983 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:31:33,258 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:31:35,270 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 15:31:43,806 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 15:31:45,819 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 15:31:53,255 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:32:04,114 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 15:32:14,480 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:32:18,839 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 15:32:26,248 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:34:03,657 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-18 15:44:31,076 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:44:33,306 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:44:35,333 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 15:44:45,907 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 15:44:47,929 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-18 15:44:54,313 - MenuLinks -INFO - We are on Homepage....
+2021-05-18 15:44:57,321 - MenuLinks -INFO - Validating Homepage title...
+2021-05-18 15:44:57,334 - MenuLinks -INFO - Test Case passed
+2021-05-18 15:45:09,344 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:45:11,494 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:45:16,626 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-18 15:45:16,634 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-18 15:45:27,649 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-18 15:45:27,659 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-18 15:45:42,728 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-18 15:45:42,738 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-18 15:45:57,553 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-18 15:45:57,564 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-18 15:46:00,578 - MenuLinks -INFO - Validations Successful
+2021-05-18 15:46:00,578 - MenuLinks -INFO - Test Case Passed.
+2021-05-18 15:46:36,899 - MenuLinks -INFO - URL is Opened
+2021-05-18 15:46:39,081 - MenuLinks -INFO - Window size has been set
+2021-05-18 15:46:41,092 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 15:46:50,188 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 15:46:52,210 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 15:46:59,636 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:47:17,416 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 15:47:27,863 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:47:32,411 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 15:47:39,686 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 15:48:54,554 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-18 16:31:59,601 - MenuLinks -INFO - URL is Opened
+2021-05-18 16:32:01,977 - MenuLinks -INFO - Window size has been set
+2021-05-18 16:32:03,999 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 16:32:12,676 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 16:32:14,714 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 16:32:22,288 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 16:32:32,736 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 16:32:43,118 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 16:32:48,348 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 16:32:55,618 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 16:34:19,255 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-18 16:34:22,261 - MenuLinks -INFO - All Validations Successful
+2021-05-18 16:34:22,261 - MenuLinks -INFO - Test Case passed
+2021-05-18 16:55:37,283 - MenuLinks -INFO - URL is Opened
+2021-05-18 16:55:39,462 - MenuLinks -INFO - Window size has been set
+2021-05-18 16:55:44,894 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-18 16:55:44,910 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-18 16:55:56,347 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-18 16:55:56,358 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-18 17:24:42,087 - MenuLinks -INFO - URL is Opened
+2021-05-18 17:24:44,634 - MenuLinks -INFO - Window size has been set
+2021-05-18 17:24:46,657 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 17:57:39,861 - MenuLinks -INFO - URL is Opened
+2021-05-18 17:57:42,369 - MenuLinks -INFO - Window size has been set
+2021-05-18 17:57:44,391 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 18:03:57,589 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:04:00,225 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:04:02,256 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 18:04:13,974 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 18:04:16,011 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-18 18:04:24,610 - MenuLinks -INFO - We are on Homepage....
+2021-05-18 18:04:27,625 - MenuLinks -INFO - Validating Homepage title...
+2021-05-18 18:04:27,652 - MenuLinks -INFO - Test Case passed
+2021-05-18 18:04:42,307 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:04:44,546 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:04:49,961 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-18 18:04:49,975 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-18 18:05:02,858 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-18 18:05:02,890 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-18 18:05:23,060 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-18 18:05:23,073 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-18 18:05:40,774 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-18 18:05:40,797 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-18 18:05:43,811 - MenuLinks -INFO - Validations Successful
+2021-05-18 18:05:43,812 - MenuLinks -INFO - Test Case Passed.
+2021-05-18 18:06:11,563 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:06:14,410 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:06:16,434 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 18:06:27,863 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 18:06:29,884 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 18:06:39,266 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 18:06:52,051 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 18:07:04,242 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 18:07:09,155 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 18:07:18,391 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 18:08:15,044 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:08:17,320 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:08:19,369 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 18:09:06,463 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-18 18:09:09,465 - MenuLinks -INFO - All Validations Successful
+2021-05-18 18:09:09,465 - MenuLinks -INFO - Test Case passed
+2021-05-18 18:11:27,274 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:11:29,537 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:11:31,564 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 18:11:41,170 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 18:11:43,192 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-18 18:11:49,463 - MenuLinks -INFO - We are on Homepage....
+2021-05-18 18:11:52,467 - MenuLinks -INFO - Validating Homepage title...
+2021-05-18 18:11:52,480 - MenuLinks -INFO - Test Case passed
+2021-05-18 18:12:04,097 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:12:06,256 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:12:11,428 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-18 18:12:11,436 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-18 18:12:22,617 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-18 18:12:22,632 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-18 18:12:37,838 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-18 18:12:37,848 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-18 18:12:52,638 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-18 18:12:52,649 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-18 18:12:55,654 - MenuLinks -INFO - Validations Successful
+2021-05-18 18:12:55,654 - MenuLinks -INFO - Test Case Passed.
+2021-05-18 18:13:24,188 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:13:26,371 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:13:28,383 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 18:13:41,274 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-18 18:13:43,290 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-18 18:13:50,665 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 18:14:00,878 - MenuLinks -INFO - Electronics page title is validated
+2021-05-18 18:14:11,166 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 18:14:18,846 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-18 18:14:26,168 - MenuLinks -INFO - Homepage title is validated.
+2021-05-18 18:15:02,077 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-18 18:15:05,083 - MenuLinks -INFO - All Validations Successful
+2021-05-18 18:15:05,083 - MenuLinks -INFO - Test Case passed
+2021-05-18 18:17:18,519 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:17:20,748 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:17:22,768 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 18:17:43,906 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:17:46,061 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:17:51,198 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-18 18:17:51,206 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-18 18:18:02,479 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-18 18:18:02,488 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-18 18:18:35,398 - MenuLinks -INFO - URL is Opened
+2021-05-18 18:18:37,529 - MenuLinks -INFO - Window size has been set
+2021-05-18 18:18:39,546 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 20:12:40,700 - MenuLinks -INFO - URL is Opened
+2021-05-18 20:12:42,942 - MenuLinks -INFO - Window size has been set
+2021-05-18 20:12:44,964 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-18 20:13:06,475 - MenuLinks -INFO - URL is Opened
+2021-05-18 20:13:08,617 - MenuLinks -INFO - Window size has been set
+2021-05-18 20:13:13,750 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-18 20:13:13,758 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-18 20:13:25,603 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-18 20:13:25,615 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-18 20:13:55,611 - MenuLinks -INFO - URL is Opened
+2021-05-18 20:13:57,815 - MenuLinks -INFO - Window size has been set
+2021-05-18 20:13:59,840 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 10:16:30,402 - MenuLinks -INFO - URL is Opened
+2021-05-19 10:16:32,833 - MenuLinks -INFO - Window size has been set
+2021-05-19 10:16:34,855 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 10:16:45,389 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-19 10:16:47,401 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-19 10:16:53,863 - MenuLinks -INFO - We are on Homepage....
+2021-05-19 10:16:56,874 - MenuLinks -INFO - Validating Homepage title...
+2021-05-19 10:16:56,888 - MenuLinks -INFO - Test Case passed
+2021-05-19 10:17:09,263 - MenuLinks -INFO - URL is Opened
+2021-05-19 10:17:11,425 - MenuLinks -INFO - Window size has been set
+2021-05-19 10:17:16,613 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-19 10:17:16,621 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-19 10:17:28,059 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-19 10:17:28,069 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-19 10:18:05,624 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-19 10:18:05,634 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-19 10:18:20,240 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-19 10:18:20,248 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-19 10:18:23,263 - MenuLinks -INFO - Validations Successful
+2021-05-19 10:18:23,263 - MenuLinks -INFO - Test Case Passed.
+2021-05-19 10:18:35,542 - MenuLinks -INFO - URL is Opened
+2021-05-19 10:18:37,797 - MenuLinks -INFO - Window size has been set
+2021-05-19 10:18:39,820 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 10:18:48,994 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-19 10:18:51,005 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-19 10:18:58,363 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 10:19:07,847 - MenuLinks -INFO - Electronics page title is validated
+2021-05-19 10:19:18,229 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 10:19:22,970 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-19 10:19:30,212 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 10:21:08,771 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-19 10:21:11,775 - MenuLinks -INFO - All Validations Successful
+2021-05-19 10:21:11,775 - MenuLinks -INFO - Test Case passed
+2021-05-19 10:48:04,091 - MenuLinks -INFO - URL is Opened
+2021-05-19 10:48:06,326 - MenuLinks -INFO - Window size has been set
+2021-05-19 10:48:08,346 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 10:48:17,143 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-19 10:48:19,166 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-19 10:48:25,512 - MenuLinks -INFO - We are on Homepage....
+2021-05-19 10:48:28,514 - MenuLinks -INFO - Validating Homepage title...
+2021-05-19 10:48:28,526 - MenuLinks -INFO - Test Case passed
+2021-05-19 10:48:47,333 - MenuLinks -INFO - URL is Opened
+2021-05-19 10:48:49,494 - MenuLinks -INFO - Window size has been set
+2021-05-19 10:48:54,635 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-19 10:48:54,643 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-19 10:49:51,168 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-19 10:49:51,176 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-19 10:50:16,254 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-19 10:50:16,267 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-19 10:50:40,894 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-19 10:50:40,904 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-19 10:50:43,916 - MenuLinks -INFO - Validations Successful
+2021-05-19 10:50:43,916 - MenuLinks -INFO - Test Case Passed.
+2021-05-19 10:50:56,770 - MenuLinks -INFO - URL is Opened
+2021-05-19 10:50:59,051 - MenuLinks -INFO - Window size has been set
+2021-05-19 10:51:01,066 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 10:51:10,426 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-19 10:51:12,441 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-19 10:51:19,842 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 10:51:27,408 - MenuLinks -INFO - Electronics page title is validated
+2021-05-19 10:51:37,744 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 10:51:43,056 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-19 10:51:50,424 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 10:54:10,249 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-19 10:54:13,251 - MenuLinks -INFO - All Validations Successful
+2021-05-19 10:54:13,251 - MenuLinks -INFO - Test Case passed
+2021-05-19 11:24:12,132 - MenuLinks -INFO - URL is Opened
+2021-05-19 11:24:14,508 - MenuLinks -INFO - Window size has been set
+2021-05-19 11:24:16,545 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 11:24:26,314 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-19 11:24:28,344 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-19 11:24:35,279 - MenuLinks -INFO - We are on Homepage....
+2021-05-19 11:24:38,285 - MenuLinks -INFO - Validating Homepage title...
+2021-05-19 11:24:38,302 - MenuLinks -INFO - Test Case passed
+2021-05-19 11:24:51,248 - MenuLinks -INFO - URL is Opened
+2021-05-19 11:24:53,415 - MenuLinks -INFO - Window size has been set
+2021-05-19 11:24:58,652 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-19 11:24:58,662 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-19 11:28:53,547 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-19 11:29:06,098 - MenuLinks -INFO - URL is Opened
+2021-05-19 11:29:08,407 - MenuLinks -INFO - Window size has been set
+2021-05-19 11:29:10,423 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 11:29:18,867 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-19 11:29:20,896 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-19 11:29:28,314 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 11:29:45,637 - MenuLinks -INFO - Electronics page title is validated
+2021-05-19 11:29:55,955 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 11:30:00,498 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-19 11:30:07,794 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 11:31:12,050 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-19 11:31:15,051 - MenuLinks -INFO - All Validations Successful
+2021-05-19 11:31:15,051 - MenuLinks -INFO - Test Case passed
+2021-05-19 11:32:59,964 - MenuLinks -INFO - URL is Opened
+2021-05-19 11:33:02,125 - MenuLinks -INFO - Window size has been set
+2021-05-19 11:33:07,352 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-19 11:33:07,360 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-19 11:33:18,854 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-19 11:33:18,863 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-19 11:33:33,947 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-19 11:33:33,957 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-19 11:33:48,447 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-19 11:33:48,457 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-19 11:33:51,463 - MenuLinks -INFO - Validations Successful
+2021-05-19 11:33:51,465 - MenuLinks -INFO - Test Case Passed.
+2021-05-19 11:35:03,172 - MenuLinks -INFO - URL is Opened
+2021-05-19 11:35:05,460 - MenuLinks -INFO - Window size has been set
+2021-05-19 11:35:07,489 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 11:35:17,242 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-19 11:35:19,266 - MenuLinks -INFO - Fetching Amazon Pay page title...
+2021-05-19 11:35:25,722 - MenuLinks -INFO - We are on Homepage....
+2021-05-19 11:35:28,731 - MenuLinks -INFO - Validating Homepage title...
+2021-05-19 11:35:28,744 - MenuLinks -INFO - Test Case passed
+2021-05-19 11:35:40,153 - MenuLinks -INFO - URL is Opened
+2021-05-19 11:35:42,307 - MenuLinks -INFO - Window size has been set
+2021-05-19 11:35:47,447 - MenuLinks -INFO - Validating Java Tutorial page title...
+2021-05-19 11:35:47,468 - MenuLinks -INFO - Java Tutorial page title is validated.
+2021-05-19 11:35:58,724 - MenuLinks -INFO - Validating Selenium Tutorial page title...
+2021-05-19 11:35:58,734 - MenuLinks -INFO - Selenium Tutorial page title is validated.
+2021-05-19 11:36:13,264 - MenuLinks -INFO - Validating Selenium Blogs page title...
+2021-05-19 11:36:13,275 - MenuLinks -INFO - Selenium Blogs page title is validated.
+2021-05-19 11:36:37,412 - MenuLinks -INFO - Validating TestNG Blogs page title...
+2021-05-19 11:36:37,421 - MenuLinks -INFO - TestNG Blogs page title is validated.
+2021-05-19 11:36:40,428 - MenuLinks -INFO - Validations Successful
+2021-05-19 11:36:40,428 - MenuLinks -INFO - Test Case Passed.
+2021-05-19 11:36:57,470 - MenuLinks -INFO - URL is Opened
+2021-05-19 11:36:59,785 - MenuLinks -INFO - Window size has been set
+2021-05-19 11:37:01,799 - MenuLinks -INFO - Homepage Title is fetched
+2021-05-19 11:37:11,011 - MenuLinks -INFO - We are on Amazon pay Page.
+2021-05-19 11:37:13,023 - MenuLinks -INFO - Amazon Pay title is validated.
+2021-05-19 11:37:20,453 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 11:37:27,980 - MenuLinks -INFO - Electronics page title is validated
+2021-05-19 11:37:38,380 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 11:37:42,744 - MenuLinks -INFO - New Releases page title is validated.
+2021-05-19 11:37:50,187 - MenuLinks -INFO - Homepage title is validated.
+2021-05-19 11:38:34,284 - MenuLinks -INFO - Fire TV stick page title is validated.
+2021-05-19 11:38:37,296 - MenuLinks -INFO - All Validations Successful
+2021-05-19 11:38:37,296 - MenuLinks -INFO - Test Case passed

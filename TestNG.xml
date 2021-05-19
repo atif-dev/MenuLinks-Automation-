@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="MenuLinks">
+
+	<listeners>
+		<listener class-name="com.menuLinks.Utilities.Reporting" />
+	</listeners> 
+
+	<test name="MenuLinks Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		
+			  		
+			          <class name = "com.menuLinks.testCases.TC_01" />
+			          <class name = "com.menuLinks.testCases.TC_02" />
+			      <class name = "com.menuLinks.testCases.TC_03" />
+			  		
+			 		  
+		</classes>
+
+	</test>
+
+</suite>
